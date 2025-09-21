@@ -18,8 +18,8 @@ Inclui duas consultas principais que o “diretor” precisa:
 
 ### 2. Clonar o repositório
 ```bash
-git clone https://github.com/<seu-usuario>/<seu-repositorio>.git
-cd <seu-repositorio>/er-school
+git clone https://github.com/AthosAlexandre/Teste2L2.git
+cd Teste2L2/er-school
 ```
 
 ### 3. Subir os containers
